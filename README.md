@@ -35,7 +35,7 @@ computer’s environment variables from Control Panel.
 3. A pie chart depicting the percentage of sequences in each class is displayed and also saved in the tool’s folder.
 4. Finally, an output file “Output.csv” consisting of the sequence ID and its corresponding class is generated in the MTBPred folder.
 
-   MTBPred Summary
+   MTBPred Summary: 
 A tool developed in Python 3.7 which takes a FASTA sequence(s) file as an input and classifies each sequence as belonging to MTBP or non-MTBP.
 It validates the input file for not containing ambiguous amino acid characters-B, J, O, U, X & Z.
 It gives user an option to choose between the two classification methods: Random Forest and Support Vector Machine.
